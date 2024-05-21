@@ -19,5 +19,7 @@
 
 <div align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=geolog332&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true" align="center" />
+</div> 
+<div align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geolog332&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact" align="center" />
 </div> 
