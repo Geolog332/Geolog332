@@ -1,10 +1,10 @@
 ## Hello!  I'm Anton Mataev
+=====================================================================================================================================
 
 ### About me: 
-I'm a beginner full stack developer.
+I'm a beginner Full-stack developer.
 
 ---
-
 
 ### My skills
 
