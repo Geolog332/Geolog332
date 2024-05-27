@@ -1,7 +1,5 @@
 ## Hello!  I'm Anton Mataev
 
-
-### About me 
 I'm a beginner Full-stack developer.
 
 ---
