@@ -34,6 +34,14 @@ I'm a beginner Full-stack developer.
 </div>  
 
 
+
+###
+
+<div align="left">
+<img src="https://www.codewars.com/users/_Anton_M_/badges/large" align="center" />
+</div> 
+
+
 ---
 
 ### Connect with me
