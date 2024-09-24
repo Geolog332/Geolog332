@@ -29,6 +29,43 @@ I'm a beginner Full-stack developer.
 </div>
 
 
+<!-- STAT:START -->
+<table align="center" cellspacing="0" cellpadding="0" border="0">
+   <tr>
+    <td>
+      <a href="https://julfy-bs.github.io/portfolio/" target="_blank">
+        <picture>
+          <source 
+            srcset="https://github-readme-stats-skyz.vercel.app/api?username=julfy-bs&show_icons=true&theme=github_dark&hide_border=true"
+            media="(prefers-color-scheme: dark)"
+          />
+          <source
+            srcset="https://github-readme-stats-skyz.vercel.app/api?username=julfy-bs&show_icons=true&hide_border=true"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+          />
+          <img src="https://github-readme-stats-skyz.vercel.app/api?username=julfy-bs&show_icons=true&hide_border=true" />
+        </picture>
+      </a>
+    </td>
+    <td>
+      <a href="https://julfy-bs.github.io/portfolio/" target="_blank">
+        <picture>
+          <source 
+            srcset="https://github-readme-stats-skyz.vercel.app/api/top-langs/?username=julfy-bs&show_icons=true&theme=github_dark&layout=compact&hide_border=true"
+            media="(prefers-color-scheme: dark)"
+          />
+          <source
+            srcset="https://github-readme-stats-skyz.vercel.app/api/top-langs/?username=julfy-bs&show_icons=true&layout=compact&hide_border=true"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+          />
+          <img src="https://github-readme-stats-skyz.vercel.app/api/top-langs/?username=julfy-bs&show_icons=true&layout=compact&hide_border=true" />
+        </picture>
+      </a>
+    </td>
+   </tr>
+  <tr>
+</table>
+<!-- STAT:END -->
 
 ###
 
