@@ -29,20 +29,6 @@ I'm a beginner Full-stack developer.
 </div>
 
 
-<!-- STAT:START -->
-<table align="center" cellspacing="0" cellpadding="0" border="0">
-   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geolog332&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact" align="center" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=geolog332&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true" align="center" />
-    </td>
-   </tr>
-  <tr>
-</table>
-<!-- STAT:END -->
-
 ###
 
 <div align="left">
