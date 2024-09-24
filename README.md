@@ -36,7 +36,7 @@ I'm a beginner Full-stack developer.
       <a href="https://julfy-bs.github.io/portfolio/" target="_blank">
         <picture>
           <source 
-            srcset="https://github-readme-stats-skyz.vercel.app/api?username=julfy-bs&show_icons=true&theme=github_dark&hide_border=true"
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=geolog332&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact"
             media="(prefers-color-scheme: dark)"
           />
           <source
